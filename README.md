@@ -1,4 +1,4 @@
-# sfguide-build-chatbot-with-snowflake-native-app-snowflake-cortex
+# Build a CineBot with Snowflake Native Apps and Snowflake Cortex
 
 ## Overview
 In this guide you will learn how to incorporate the Snowflake Cortex Suite into a Native App allowing you to deploy a variety of new capabilities to Native App consumers.
