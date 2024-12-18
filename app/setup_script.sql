@@ -110,7 +110,7 @@ GRANT USAGE ON PROCEDURE core.register_single_callback( STRING,  STRING,  STRING
 -- 5. Create a streamlit object using the code you wrote in you wrote in src/module-ui, as shown below.
 -- The `from` value is derived from the stage path described in snowflake.yml
 CREATE OR REPLACE STREAMLIT core.ui
-     FROM '/src/'
+     FROM '/'
      MAIN_FILE = 'ui.py';
 
 -- 6. Grant appropriate privileges over these objects to your application roles.
