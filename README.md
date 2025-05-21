@@ -73,6 +73,4 @@ To get started with the Snowflake CineBot, please refer to the comprehensive [Qu
 
 This project is licensed under the **Apache License, Version 2.0**. For full details, please refer to the `LICENSE` file within this repository.
 
----
 
-Do you have any questions about specific features or the deployment process?
